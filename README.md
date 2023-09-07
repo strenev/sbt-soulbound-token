@@ -1,4 +1,4 @@
-# Soul Bound Token Implementation
+# Soulbound Token (SBT)
 
 ## Overview
 
